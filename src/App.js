@@ -5,7 +5,7 @@ import Autor from './componentes/Autor';
 import Descripcion from './componentes/Descripcion';
 
 
-const seeplus = <img style={{'width':'60px'}} src={process.env.PUBLIC_URL + './icons/seeplus.svg'} alt="icon seeplus" />;
+const seeplus = <img style={{'width':'60px'}} src={'http://res.cloudinary.com/cristiansam/image/upload/v1532829991/seeplus.svg'} alt="icon seeplus" />;
 
 class App extends Component {
   state = {
