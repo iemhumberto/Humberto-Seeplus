@@ -4,9 +4,10 @@
   "private": true,
   "homepage": "http://csamboni.github.io/see-plus",
   "dependencies": {
-    "react": "^16.4.1",
+    "create-react-app": "^2.0.4",
+    "react": "^16.6.0",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "^2.0.5",
     "react-social-icons": "^3.0.0"
   },
   "scripts": {
